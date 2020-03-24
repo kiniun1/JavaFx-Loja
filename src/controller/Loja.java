@@ -6,6 +6,7 @@
 package controller;
 
 import view.Login;
+import view.TelaInicial;
 
 /**
  *
@@ -20,6 +21,9 @@ public class Loja {
         // TODO code application logic here
         Login login1 = new Login();
         login1.setVisible(true);
+        
+ 
+        
     }
     
 }
